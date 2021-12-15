@@ -7,3 +7,5 @@ Here's a rough outline for what we'll be learning today...
 3. Converting it to a chainable, immutable library with OOP
 4. Providing developers with hooks to customize how it works
 5. Bundling a library for distribution and performance
+
+[Demo]( https://raw.githack.com/cferdinandi/frontend-horse-js-library/main/index.html )
